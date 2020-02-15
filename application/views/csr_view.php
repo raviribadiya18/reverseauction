@@ -1,21 +1,27 @@
-    <div class="page-title">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="content">
-                        <h2 class="title-banner">CSR</h2>
+    <!--<div class="page-title">-->
+    <!--    <div class="container">-->
+    <!--        <div class="row">-->
+    <!--            <div class="col-lg-6">-->
+    <!--                <div class="content">-->
+    <!--                    <h2 class="title-banner">CSR</h2>-->
                         <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing<br> elit sed do eius mod tempor incididunt</p> -->
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <ul class="breadcrumb">
-                        <li><a href="<?=base_url();?>">Home</a></li>
-                        <li><a href="#">CSR</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div><!-- page-title -->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!--            <div class="col-lg-6">-->
+    <!--                <ul class="breadcrumb">-->
+    <!--                    <li><a href="<?=base_url();?>" class="#">Home</a></li>-->
+    <!--                    <li><a href="#">CSR</a></li>-->
+    <!--                </ul>-->
+    <!--            </div>-->
+    <!--        </div>-->
+    <!--    </div>-->
+    <!--</div>-->
+    <div class="progress-bar bg-danger" role="progressbar" style="font-size: 40px; width: 100%;  background: rgba(219, 13, 13, 0.2) !important;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+        <span style="color: rgba(219, 13, 13, 1); height: 60px; margin: 20px 0 0 0;">
+          CSR
+        </span>
+    </div>
+    <!-- page-title -->
     <div class="practice-single">
         <div class="container">
             <div class="row">

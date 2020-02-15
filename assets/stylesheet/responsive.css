@@ -123,7 +123,7 @@
       line-height: 30px;
     }
     #footer {
-      padding: 100px 0 0 0;
+      padding: 20px 0 0 0;
     }
     #footer .footer-bottom {
       margin-bottom: 100px;
@@ -152,7 +152,7 @@
       margin-bottom: 100px;
     }
     .blog-content {
-      padding: 100px 0 50px 0;
+      padding: 50px 0 50px 0;
     }
     .main-post .featured-post .entry-img img {
       width: 100%;
@@ -175,7 +175,7 @@
       width: 100%;
     }
     .contact {
-      padding: 100px 0;
+      padding: 50px 0;
     }
     .write-something {
       padding: 0 0 100px 0;
@@ -225,7 +225,7 @@
       display: none;
     }
     .featured-style1 {
-      padding: 100px 0 70px 0;
+      padding: 20px 0 70px 0;
     }
     .featured-banner-type2 {
       padding: 100px 0;
@@ -238,7 +238,7 @@
       padding: 100px 0;
     }
     .facts {
-      padding: 25px 0 50px 0;
+      padding: 25px 0 0 0;
     }
     .flat-counter .counter {
       margin-bottom: 50px;
@@ -344,7 +344,7 @@
       transform: scale(0);
     }
     .about-style1 {
-      padding: 100px 0;
+      padding: 20px 0;
     }
     .about .heading {
       margin-bottom: 30px;
@@ -641,10 +641,4 @@
 
 @media (max-width: 320px) { 
 
-}   
-@media (min-width: 238px) { 
-	.tp-bgimg .defaultimg
-	{
-		height: 180px !important;
-	}
 }   

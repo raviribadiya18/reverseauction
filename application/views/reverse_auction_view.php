@@ -1,21 +1,27 @@
- <div class="page-title">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="content">
-                        <h2 class="title-banner">Reverse Aauction</h2>
+ <!--<div class="page-title">-->
+ <!--       <div class="container">-->
+ <!--           <div class="row">-->
+ <!--               <div class="col-lg-6">-->
+ <!--                   <div class="content">-->
+ <!--                       <h2 class="title-banner">Reverse Aauction</h2>-->
                         <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing<br> elit sed do eius mod tempor incididunt</p> -->
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <ul class="breadcrumb">
-                        <li><a href="<?=base_url();?>" class="active">Home</a></li>
-                        <li><a href="#">Reverse_auction</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div><!-- page-title -->
+ <!--                   </div>-->
+ <!--               </div>-->
+ <!--               <div class="col-lg-6">-->
+ <!--                   <ul class="breadcrumb">-->
+ <!--                       <li><a href="<?=base_url();?>" class="#">Home</a></li>-->
+ <!--                       <li><a href="#">Reverse_auction</a></li>-->
+ <!--                   </ul>-->
+ <!--               </div>-->
+ <!--           </div>-->
+ <!--       </div>-->
+ <!--   </div>-->
+ <div class="progress-bar bg-danger" role="progressbar" style="font-size: 40px; width: 100%;  background: rgba(219, 13, 13, 0.2) !important;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+        <span style="color: rgba(219, 13, 13, 1); height: 60px; margin: 20px 0 0 0;">
+            REVERSE AUCTION
+        </span>
+    </div>
+    <!-- page-title -->
     <div class="blog-content">
         <div class="container">
             <div class="row">
@@ -24,7 +30,7 @@
                         <article class="main-post mg-bottom-bls">
                             <div class="featured-post">
                                 <div class="entry-img">
-                                    <a href="#"><img src="<?=base_url();?>assets/images/blog/01.png" alt="images"></a>
+                                    <img src="<?=base_url();?>assets/images/blog/01.png" alt="images">
                                 </div>
                             </div>
                             <div class="post-content content-blog-single clearfix">

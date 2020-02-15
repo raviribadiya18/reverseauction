@@ -1,21 +1,10 @@
-    <div class="page-title">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="content">
-                        <h2 class="title-banner">about</h2>
-                        <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing<br> elit sed do eius mod tempor incididunt</p> -->
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <ul class="breadcrumb">
-                        <li><a href="<?=base_url();?>" class="active">Home</a></li>
-                        <li><a href="#">About</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div><!-- page-title -->
+    <!--<div style="margin: 25px 0px -40px 50px;  font-weight: bold; color: red;">About Us</div>-->
+    <div class="progress-bar bg-danger" role="progressbar" style="font-size: 40px; width: 100%;  background: rgba(219, 13, 13, 0.2) !important;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+        <span style="color: rgba(219, 13, 13, 1); height: 60px; margin: 20px 0 0 0;">
+            ABOUT US
+        </span>
+    </div>
+    <!-- page-title -->
     <div class="about about-style1">
         <div class="container">
             <div class="text-content">

@@ -26,7 +26,7 @@
 						data-splitout="none" 
 						data-responsive_offset="on">
 						WE ARE SUPRIMO
-						</div>
+						</div>-->
 
 						<div class="tp-caption tp-resizeme text-white font-weight-700 text-center"
 						data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -46,7 +46,7 @@
 						data-splitout="none" 
 						data-responsive_offset="on">
 						We stand for Justice
-						</div>  -->
+						</div>  
 
 						<!-- <div class="tp-caption tp-resizeme text-description text-white text-center"
 						data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -93,7 +93,7 @@
 						<img src="<?=base_url();?>assets/images/transparent-head/slide-2.jpg" alt="" data-bgposition="center center" data-no-retina>
 				   
 						<!-- Layers -->
-						<!-- <div class="tp-caption tp-resizeme text-white font-weight-700 text-center"
+						 <!-- <div class="tp-caption tp-resizeme text-white font-weight-700 text-center"
 						data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 						data-y="['middle','middle','middle','middle']" data-voffset="['-146','-146','-130','-150']"
 						data-fontsize="['30','30','24','16']"
@@ -110,8 +110,8 @@
 						data-splitin="none" 
 						data-splitout="none" 
 						data-responsive_offset="on">
-						Ravi
-						</div>
+						WE ARE SUPRIMO
+						</div>-->
 
 						<div class="tp-caption tp-resizeme text-white font-weight-700 text-center"
 						data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -132,7 +132,7 @@
 						data-responsive_offset="on">
 						We stand for Justice
 						</div>
- -->
+ 
 						<!--<div class="tp-caption tp-resizeme text-description text-white text-center"
 						data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 						data-y="['middle','middle','middle','middle']" data-voffset="['31','31','10','40']"
@@ -174,6 +174,28 @@
 					<li data-transition="random">
 						<!-- Main Image -->
 						<img src="<?=base_url();?>assets/images/transparent-head/slide-3.jpg" alt="" data-bgposition="center center" data-no-retina>
+						
+						
+						<div class="tp-caption tp-resizeme text-white font-weight-700 text-center"
+						data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+						data-y="['middle','middle','middle','middle']" data-voffset="['-80','-80','-70','-80']"
+						data-fontsize="['72','72','52','40']"
+						data-lineheight="['100','100','64','52']"
+						data-width="full"
+						data-height="none"
+						data-whitespace="normal"
+						data-transform_idle="o:1;"
+						data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+						data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+						data-mask_in="x:0px;y:[100%];" 
+						data-mask_out="x:inherit;y:inherit;" 
+						data-start="1000" 
+						data-splitin="none" 
+						data-splitout="none" 
+						data-responsive_offset="on">
+						We stand for Justice
+						</div>
+						
 				   	</li>
 				</ul>
 			</div>

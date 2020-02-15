@@ -1,21 +1,9 @@
-    <div class="page-title">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="content">
-                        <h2 class="title-banner">Wedding Emcee</h2>
-                        <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing<br> elit sed do eius mod tempor incididunt</p> -->
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <ul class="breadcrumb">
-                        <li><a href="<?=base_url();?>" class="active">Home</a></li>
-                        <li><a href="#">Wedding Emcee</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div><!-- page-title -->
+    <div class="progress-bar bg-danger" role="progressbar" style="font-size: 40px; width: 100%;  background: rgba(219, 13, 13, 0.2) !important;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+        <span style="color: rgba(219, 13, 13, 1); height: 60px; margin: 20px 0 0 0;">
+            WEDDING EMCEE
+        </span>
+    </div>
+    <!-- page-title -->
     <div class="featured featured-style1">
         <div class="container">
             <div class="row">

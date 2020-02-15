@@ -1,21 +1,22 @@
- <div class="page-title">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="content">
-                        <h2 class="title-banner">contact</h2>
+ <!--<div class="page-title">-->
+ <!--       <div class="container">-->
+ <!--           <div class="row">-->
+ <!--               <div class="col-lg-6">-->
+ <!--                   <div class="content">-->
+ <!--                       <h2 class="title-banner">contact</h2>-->
                         <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing<br> elit sed do eius mod tempor incididunt</p> -->
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <ul class="breadcrumb">
-                        <li><a href="#" class="active">Home</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div><!-- page-title -->
+ <!--                   </div>-->
+ <!--               </div>-->
+ <!--               <div class="col-lg-6">-->
+ <!--                   <ul class="breadcrumb">-->
+ <!--                       <li><a href="#" class="#">Home</a></li>-->
+ <!--                       <li><a href="#">Contact</a></li>-->
+ <!--                   </ul>-->
+ <!--               </div>-->
+ <!--           </div>-->
+ <!--       </div>-->
+ <!--   </div>-->
+    <!-- page-title -->
     <div class="contact clearfix">
         <div class="container">
             <div class="contact-us">
@@ -90,6 +91,6 @@
             </form>
         </div>
     </div><!-- write-something -->
-    <div class="flat-map1">
+     <div class="flat-map1">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7292800745718!2d103.77641731426537!3d1.3387297619851848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11ff2bf8ffdd%3A0x4b9fa4eb9dc53bd9!2sBukit%20Timah%20Plaza!5e0!3m2!1sen!2sin!4v1580993638409!5m2!1sen!2sin" width="1349" height="391" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
     </div><!-- flat-map -->
