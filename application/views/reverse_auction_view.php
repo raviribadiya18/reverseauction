@@ -30,7 +30,7 @@
                         <article class="main-post mg-bottom-bls">
                             <div class="featured-post">
                                 <div class="entry-img">
-                                    <img src="<?=base_url();?>assets/images/blog/01.png" alt="images">
+                                    <!-- <img src="<?=base_url();?>assets/images/blog/01.png" alt="images"> -->
                                 </div>
                             </div>
                             <div class="post-content content-blog-single clearfix">
