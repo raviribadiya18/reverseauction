@@ -25,6 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 //$config['base_url'] = 'http://localhost/reverseauction/';
 $config['base_url'] = 'http://pnxschool.com/reverseauction/';
+//$config['base_url'] = 'http://localhost/reverseauction/';
 
 
 /*
