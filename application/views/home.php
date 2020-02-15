@@ -93,7 +93,7 @@
 						<img src="<?=base_url();?>assets/images/transparent-head/slide-2.jpg" alt="" data-bgposition="center center" data-no-retina>
 				   
 						<!-- Layers -->
-						 <div class="tp-caption tp-resizeme text-white font-weight-700 text-center"
+						<!-- <div class="tp-caption tp-resizeme text-white font-weight-700 text-center"
 						data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 						data-y="['middle','middle','middle','middle']" data-voffset="['-146','-146','-130','-150']"
 						data-fontsize="['30','30','24','16']"
@@ -113,7 +113,7 @@
 						Ravi
 						</div>
 
-						<!-- <div class="tp-caption tp-resizeme text-white font-weight-700 text-center"
+						<div class="tp-caption tp-resizeme text-white font-weight-700 text-center"
 						data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 						data-y="['middle','middle','middle','middle']" data-voffset="['-80','-80','-70','-80']"
 						data-fontsize="['72','72','52','40']"
