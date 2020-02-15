@@ -5,11 +5,11 @@
 					<div class="row">
 						<div class="col-lg-3 col-md-6 col-sm-6">
 							<div class="widget widget-newsletter">
-								<div class="images-logo">
-									<!-- <img src="<?=base_url();?>assets/images/footer/01.jpg" alt="images"> -->
-								</div>
+								<!--<div class="images-logo">-->
+								<!--	<img src="<?=base_url();?>assets/images/footer/01.jpg" alt="images">-->
+								<!--</div>-->
 								<div class="content">
-									<p>Polore eu fugiat nulla pariatur Excepteur sint occaecat cupidat at non tomake bole</p>
+									<p>Craig uses "Reverse Auction" as an inclusive, engaging and fun way where people attending these Fund Raising Dinners enjoy the event and want to make a contribution.</p>
 								</div>
 							</div>
 							<div class="list-socials">
@@ -21,31 +21,31 @@
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6">
 							<div class="widget widget-services mg-footer-mbb">
-								<h2 class="widget-title">About</h2>
+								<h2 class="widget-title">MENU</h2>
 								<div class="content">
 									<ul class="widget-menu">
-										<li><a href="<?=base_url();?>">Home</a></li>
-										<li><a href="<?=base_url();?>/index.php/about">About us</a></li>
-										<li><a href="<?=base_url();?>/index.php/reverse_auction">Reverse Auction</a></li>
-										<li><a href="<?=base_url();?>/index.php/contact">Contact Us</a></li>
+										<li><a href="<?= base_url();?>">HOME</a></li>
+										<li><a href="<?= base_url();?>index.php/about">ABOUT US</a></li>
+										<li><a href="<?= base_url();?>index.php/reverse_auction">REVERSE AUCTION</a></li>
+										<li><a href="<?= base_url();?>index.php/contact">CONTACT US</a></li>
 									</ul>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6">
 							<div class="widget widget-services mg-footer-mbs">
-								<h2 class="widget-title">Help Desk</h2>
+								<h2 class="widget-title">SERVICE</h2>
 								<div class="content">
 									<ul class="widget-menu">
-										<li><a href="<?=base_url();?>index.php/wedding_emcee">Wedding Emcee</a></li>
-										<li><a href="<?=base_url();?>index.php/csr">CSR</a></li>
+										<li><a href="<?= base_url();?>index.php/wedding_emcee">WEDDING EMCEE</a></li>
+										<li><a href="<?= base_url();?>index.php/csr">CSR</a></li>
 									</ul>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6">
 							<div class="widget widget-contact mg-footer-mbb">
-								<h2 class="widget-title">Contact</h2>
+								<h2 class="widget-title">CONTACT</h2>
 								<div class="content">
 									<ul>
 										<li><span class="text address">PHD Internetional,<br>
@@ -70,18 +70,18 @@
 						<div class="row">
 							<div class="col-lg-5 col-md-12">
 								<div class="copyright">
-									All rights reserved  ©  <a href="#">Reverse Auction</a>  2020
+									All rights reserved  ©  <a href="<?=base_url();?>">Reverse Auction</a>  2020
 								</div>
 							</div>
-							<div class="col-lg-7 col-md-12">
-								<div class="menu-footer">
-									<ul>
-										<li><a href="#">Terms & Condition</a></li>
-										<li><a href="#">Privacy Policy</a></li>
-										<li><a href="#">Legal</a></li>
-									</ul>
-								</div>
-							</div>
+							<!--<div class="col-lg-7 col-md-12">-->
+							<!--	<div class="menu-footer">-->
+							<!--		<ul>-->
+							<!--			<li><a href="#">Terms & Condition</a></li>-->
+							<!--			<li><a href="#">Privacy Policy</a></li>-->
+							<!--			<li><a href="#">Legal</a></li>-->
+							<!--		</ul>-->
+							<!--	</div>-->
+							<!--</div>-->
 						</div>
 					</div>
 				</div>
