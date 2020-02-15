@@ -22,7 +22,7 @@
             <div class="contact-us">
                 <div class="title-section text-center">
                     <h3 class="flat-title">Connect With Us</h3>
-                    <p class="sub-title">Dolore magna aliqu onoet enim ad minim veniam</p>
+                    <!-- <p class="sub-title">Dolore magna aliqu onoet enim ad minim veniam</p> -->
                 </div>
                 <div class="contact-options">
                     <div class="icon-box">

@@ -29,7 +29,7 @@
                     <div class="content-wrap clearfix">
                         <div class="featured-post">
                             <div class="entry-image">
-                                <img src="<?=base_url();?>assets/images/practice/01.png" alt="images">
+                                <!-- <img src="<?=base_url();?>assets/images/practice/01.png" alt="images"> -->
                             </div>
                         </div>
                         <div class="overview content-practice-single mg-practice-single">
@@ -79,9 +79,9 @@
                                 <a href="#" class="btn-download hvr-vertical">DOWNLOAD <i class="fa fa-download" aria-hidden="true"></i></a>
                             </div> -->
                         </div>
-                        <div class="img-media">
+                        <!-- <div class="img-media">
                             <img src="<?=base_url();?>assets/images/case/14.png" alt="images">
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
