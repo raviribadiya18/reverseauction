@@ -18,9 +18,6 @@
                         <div class="image-box-law">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                    <a href="#"><img src="<?=base_url();?>assets/images/practice/03.png" alt="images"></a>
-                                </div>
-                                <div class="icon">
                                     <iframe width="370" height="216" src="https://www.youtube.com/embed/Xs4zZouqesA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                             </div>
@@ -30,9 +27,6 @@
                         <div class="image-box-law">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                    <a href="#"><img src="<?=base_url();?>assets/images/practice/04.png" alt="images"></a>
-                                </div>
-                                <div class="icon">
                                     <iframe width="370" height="216" src="https://www.youtube.com/embed/Xs4zZouqesA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                             </div>
@@ -42,10 +36,7 @@
                         <div class="image-box-law">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                    <a href="#"><img src="<?=base_url();?>assets/images/practice/05.png" alt="images"></a>
-                                </div>
-                                <div class="icon">
-                                    <iframe width="370" height="216" src="https://www.youtube.com/embed/Xs4zZouqesA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <<iframe width="370" height="216" src="https://www.youtube.com/embed/Xs4zZouqesA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>
