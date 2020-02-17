@@ -37,7 +37,7 @@
                                	<li>
 									<a href="#">Our Services</a>
 									<ul class="sub-menu">
-                                        <li <?php if($uriMethod_name=="wedding_emcee"){ echo "class='active'"; }else{ echo "class=''" ; } ?>><a href="<?php echo base_url(); ?>index.php/wedding_emcee">Wedding Emcee</a>
+                                        <li <?php if($uriMethod_name=="wedding_emcee"){ echo "class='active'"; }else{ echo "class=''" ; } ?>><a href="<?php echo base_url(); ?>index.php/testimonials">Wedding Emcee</a>
                                 		</li>
                                 		<li <?php if($uriMethod_name=="csr"){ echo "class='active'"; }else{ echo "class=''" ; } ?>><a href="<?php echo base_url(); ?>index.php/csr">CSR</a>
                                 		</li>

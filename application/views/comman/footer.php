@@ -37,7 +37,7 @@
 								<h2 class="widget-title">SERVICE</h2>
 								<div class="content">
 									<ul class="widget-menu">
-										<li><a href="<?= base_url();?>index.php/wedding_emcee">WEDDING EMCEE</a></li>
+										<li><a href="<?= base_url();?>index.php/testimonials">TESTIMONIALS</a></li>
 										<li><a href="<?= base_url();?>index.php/csr">CSR</a></li>
 									</ul>
 								</div>
