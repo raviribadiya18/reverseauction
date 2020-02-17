@@ -18,19 +18,6 @@
                     <div class="flat-spacer" data-desktop="38" data-sdesktop="0" data-mobi="0" data-smobi="0"></div>
                     <div class="content">
                         <!-- <div class="caption">Our Features</div> -->
-                        <h4 class="heading">Wedding Emcee</h4>
-                        <p class="description">
-                            Getting Married? Ever consider engaging a Professional Emcee who can engage and entertain your Guests while reducing your Stress... Craig specializes in Emceeing Weddings. He has Emcee numerous weddings through the last 20 years and makes the Wedding Dinners Fun, Enjoyable and Memorable for the Wedding Couple, their families and guests.
-                        </p>
-                        <p>
-                        	Craig will guide the Wedding Couple through the entire program and make it Stress-free for them so that the Wedding Couple can enjoy the most important day in their life and make the occasion memorable.
-                        </p>
-                        <p>
-                        	Call Craig at 94765991 and let him share with you n yr spouse to be, under No Obligation, how he can help you to up the Fun factor during your Wedding Dinner...
-                        </p>
-                    </div>
-                    <div class="content">
-                        <!-- <div class="caption">Our Features</div> -->
                         <h4 class="heading">Testimonials</h4>
                         <p class="description">
                             "Craig is a fun and awesome emcee to have for your wedding!!"<br>
