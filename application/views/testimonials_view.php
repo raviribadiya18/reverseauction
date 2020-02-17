@@ -7,14 +7,7 @@
     <div class="featured featured-style1">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-12">
-                    <div class="featured-post">
-                        <div class="entry-image">
-                            <img src="<?=base_url();?>assets/images/practice/10.png" alt="images">
-                        </div>
-                    </div>
-                </div>
-                <div class="comments-area">
+            	 <div class="comments-area">
 			        <div class="container">
 			            <div class="row">
 			                <div class="col-lg-8">
@@ -57,6 +50,13 @@
 			            </div>
 			        </div>
     			</div>
+                <div class="col-lg-4 col-md-12">
+                    <div class="featured-post">
+                        <div class="entry-image">
+                            <img src="<?=base_url();?>assets/images/practice/10.png" alt="images">
+                        </div>
+                    </div>
+                </div>
                 <div class="col-lg-8 col-md-12">
                     <div class="flat-spacer" data-desktop="38" data-sdesktop="0" data-mobi="0" data-smobi="0"></div>
                     <div class="content">
