@@ -14,6 +14,49 @@
                         </div>
                     </div>
                 </div>
+                <div class="comments-area">
+			        <div class="container">
+			            <div class="row">
+			                <div class="col-lg-8">
+			                    <div class="comments">
+			                        <h4 class="title">Testimonials</h4>
+			                        <ul class="comments-list">
+			                            <li>
+			                                <div class="comment-wrap">
+			                                    <div class="avatar">
+			                                        <img src="<?=base_url();?>assets/images/blog/03.png" alt="images">
+			                                    </div>
+			                                    <div class="comment-content">
+			                                        <div class="comment-meta">
+			                                            <h5 class="name">Joseph & Jessica</h5>
+			                                        </div>
+			                                        <p>
+			                                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia de serunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit volu ptatem accusantium doloremque laudantium
+			                                        </p>
+			                                    </div>
+			                                </div>
+			                            </li>
+			                            <li>
+			                                <div class="comment-wrap">
+			                                    <div class="avatar">
+			                                        <img src="<?=base_url();?>assets/images/blog/06.png" alt="images">
+			                                    </div>
+			                                    <div class="comment-content">
+			                                        <div class="comment-meta">
+			                                            <h5 class="name">Sarah Jennifer</h5>
+			                                        </div>
+			                                        <p>
+			                                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia de serunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit volu ptatem accusantium doloremque laudantium
+			                                        </p>
+			                                    </div>
+			                                </div>
+			                            </li>
+			                        </ul>
+			                    </div>
+			                </div>
+			            </div>
+			        </div>
+    			</div>
                 <div class="col-lg-8 col-md-12">
                     <div class="flat-spacer" data-desktop="38" data-sdesktop="0" data-mobi="0" data-smobi="0"></div>
                     <div class="content">
