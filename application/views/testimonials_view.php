@@ -24,7 +24,7 @@
 			                                            <h5 class="name">Joseph & Jessica</h5>
 			                                        </div>
 			                                        <p>
-			                                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia de serunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit volu ptatem accusantium doloremque laudantium
+			                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit atque nulla necessitatibus, voluptatum veritatis quia laboriosam harum eos saepe, similique dolore voluptate porro, quis voluptatem asperiores. Totam pariatur voluptatibus deserunt?
 			                                        </p>
 			                                    </div>
 			                                </div>
@@ -39,7 +39,7 @@
 			                                            <h5 class="name">Sarah Jennifer</h5>
 			                                        </div>
 			                                        <p>
-			                                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia de serunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit volu ptatem accusantium doloremque laudantium
+			                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum molestiae possimus corrupti enim modi explicabo quidem vero, debitis, labore nisi laboriosam! Nisi dolore eaque, consequuntur porro non, optio harum quo.
 			                                        </p>
 			                                    </div>
 			                                </div>
