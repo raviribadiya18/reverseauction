@@ -1,6 +1,6 @@
     <div class="progress-bar bg-danger" role="progressbar" style="font-size: 40px; width: 100%;  background: rgba(219, 13, 13, 0.2) !important;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
         <span style="color: rgba(219, 13, 13, 1); height: 60px; margin: 20px 0 0 0;">
-            WEDDING EMCEE
+            TESTIMONIALS
         </span>
     </div>
     <!-- page-title -->
