@@ -19,7 +19,7 @@
 								<li>
 									<a href="#">Our Services</a>
 									<ul class="sub-menu">
-										<li class="<?php echo activate_menu('wedding_emcee'); ?>"><a href="<?php echo site_url('wedding_emcee');?>">Wedding Emcee</a></li>
+										tli class="<?php echo activate_menu('Testimonials'); ?>t><a href="<?php echo site_url('Testimonials');?>">Testimonials</a></li>
 										<li class="<?php echo activate_menu('csr'); ?>"><a href="<?php echo site_url('csr');?>">CSR</a></li>
                                     </ul>
 								</li>
@@ -37,7 +37,7 @@
                                	<li>
 									<a href="#">Our Services</a>
 									<ul class="sub-menu">
-                                        <li <?php if($uriMethod_name=="wedding_emcee"){ echo "class='active'"; }else{ echo "class=''" ; } ?>><a href="<?php echo base_url(); ?>index.php/testimonials">Wedding Emcee</a>
+                                        <li <?php if($uriMethod_name=="testimonials"){ echo "class='active'"; }else{ echo "class=''" ; } ?>><a href="<?php echo base_url(); ?>index.php/testimonials">Testimonials</a>
                                 		</li>
                                 		<li <?php if($uriMethod_name=="csr"){ echo "class='active'"; }else{ echo "class=''" ; } ?>><a href="<?php echo base_url(); ?>index.php/csr">CSR</a>
                                 		</li>
@@ -58,7 +58,7 @@
 								<li>
 									<a href="#">Our Services</a>
 									<ul class="sub-menu">
-                                        <li><a href="<?=base_url();?>index.php/wedding_emcee">Wedding Emcee</a></li>
+                                        <li><a href="<?=base_url();?>index.php/testimonials">Testimonials</a></li>
                                         <li><a href="<?=base_url();?>index.php/csr">CSR</a></li>
                                     </ul>
 								</li>
