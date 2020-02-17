@@ -46,6 +46,9 @@
 								 <li <?php if($uriMethod_name=="contact"){ echo "class='active'"; }else{ echo "class=''" ; } 
                                     ?>><a href="<?php echo base_url(); ?>index.php/reverse_auction">Reverse Auction</a>
                                 </li>
+                                <li <?php if($uriMethod_name=="video"){ echo "class='active'"; }else{ echo "class=''" ; } 
+                                    ?>><a href="<?php echo base_url(); ?>index.php/video">Video</a>
+                                </li>
                                 <li <?php if($uriMethod_name=="contact"){ echo "class='active'"; }else{ echo "class=''" ; } 
                                     ?>><a href="<?php echo base_url(); ?>index.php/contact">Contact Us</a>
                                 </li>

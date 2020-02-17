@@ -27,6 +27,7 @@
 										<li><a href="<?= base_url();?>">HOME</a></li>
 										<li><a href="<?= base_url();?>index.php/about">ABOUT US</a></li>
 										<li><a href="<?= base_url();?>index.php/reverse_auction">REVERSE AUCTION</a></li>
+										<li><a href="<?= base_url();?>index.php/video">VIDEO</a></li>
 										<li><a href="<?= base_url();?>index.php/contact">CONTACT US</a></li>
 									</ul>
 								</div>
