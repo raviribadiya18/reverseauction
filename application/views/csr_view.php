@@ -48,11 +48,11 @@
                                         A company or organisation 'adopts' a particular Charity or VWO or NGO by providing services of fund raising and where possible, Management and Staff offer their service of time to serve their adopted beneficiary for that year, as part of their community service.
                                     </p>
                                 </div>
-                                <div class="col-right">
+                                <!-- <div class="col-right">
                                     <div class="image-represent">
                                         <img src="<?=base_url();?>assets/images/practice/02.png" alt="images">
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

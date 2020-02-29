@@ -221,7 +221,7 @@
 								"Reverse Auction" founded by local TV personality Craig Teo, who is currently acting as the late Prof Chao Tzee Cheng, the famous forensic pathologist in the Channel 5 DocuDrama "Whispers of the Dead", has been in the entertainment industry for over 20 years.
 							</p>
 							<div class="fl-btn">
-								<a href="#" class="hvr-vertical">read more</a>
+								<a href="<?=base_url();?>index.php/about" class="hvr-vertical">read more</a>
 							</div>
 						</div>
 					</div>
