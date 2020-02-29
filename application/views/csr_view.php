@@ -16,16 +16,15 @@
     <!--        </div>-->
     <!--    </div>-->
     <!--</div>-->
-    <div class="progress-bar bg-danger" role="progressbar" style="font-size: 40px; width: 100%;  background: rgba(219, 13, 13, 0.2) !important;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
-        <span style="color: rgba(219, 13, 13, 1); height: 60px; margin: 20px 0 0 0;">
-          CSR
-        </span>
+       <div class="progress-bar bg-danger" role="progressbar" style="font-size: 40px; width: 100%;  background: rgba(255, 255, 255)!important;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+        <span style="color: rgba(237, 41, 57); height: 60px; margin: 20px 0 0 0;">CSR</span>
     </div>
+   
     <!-- page-title -->
     <div class="practice-single">
         <div class="container">
             <div class="row">
-                <div class="col-lg-9 col-md-12">
+                <div class="col-lg-12 col-md-12">
                     <div class="content-wrap clearfix">
                         <div class="featured-post">
                             <div class="entry-image">
@@ -33,7 +32,7 @@
                             </div>
                         </div>
                         <div class="overview content-practice-single mg-practice-single">
-                            <h3 class="title"><a href="#">What is CSR?</a></h3>
+                            <h3 class="title" style="color: #0000FF;"><b>What is CSR?</b></h3>
                             <p>
                                 Corporate Social Responsibility (CSR) is a service that is undertaken and managed by a company instead of an individual.
                             </p>
@@ -42,7 +41,7 @@
                             </p>
                         </div>
                         <div class="our-focus content-practice-single mg-practice-single clearfix">
-                            <h3 class="title"><a href="#">How it Works?</a></h3>
+                            <h3 class="title" style="color: #0000FF;"><b>How it Works?</b></h3>
                             <div class="our-focus-wrap d-lg-flex">
                                 <div class="col-left">
                                     <p>

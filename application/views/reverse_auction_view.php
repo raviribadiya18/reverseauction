@@ -16,8 +16,8 @@
  <!--           </div>-->
  <!--       </div>-->
  <!--   </div>-->
- <div class="progress-bar bg-danger" role="progressbar" style="font-size: 40px; width: 100%;  background: rgba(219, 13, 13, 0.2) !important;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
-        <span style="color: rgba(219, 13, 13, 1); height: 60px; margin: 20px 0 0 0;">
+ <div class="progress-bar bg-danger" role="progressbar" style="font-size: 32px; width: 100%;  background: rgba(255, 255, 255) !important;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+        <span style="color: rgba(255, 0, 0); height: 60px; margin: 20px 0 0 0;">
             REVERSE AUCTION
         </span>
     </div>
@@ -42,7 +42,8 @@
                                 </div> -->
                                 <div class="post-meta-right">
                                     <div class="entry-content-bls">
-                                        <h3 class="title"><a href="#">What is Reverse Auction?</a></h3>
+                                        <h3 class="title"><a href="" style="color:#0000FF;">
+                                        What is Reverse Auction?</a></h3>
                                        <!--  <ul>
                                             <li class="author"><a href="#" title="">Johnson Doe</a></li>
                                             <li class="categories"><a href="#" title="">Family Law</a></li>
@@ -67,7 +68,7 @@
                                             <p>
                                             	By doing so, everyone present is able to do their part for charity.
                                             </p>
-                                              <h3 class="title"><a href="#">How It Works?</a></h3>
+                                              <h3 class="title"><a href="#" style="color:#0000FF;">How It Works?</a></h3>
                                             <p>
                                                 The Charity/VWO/NGO will provide a list of items that they need.
                                             </p>

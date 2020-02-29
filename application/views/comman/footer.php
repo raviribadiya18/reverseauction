@@ -28,7 +28,6 @@
 										<li><a href="<?= base_url();?>index.php/about">ABOUT US</a></li>
 										<li><a href="<?= base_url();?>index.php/reverse_auction">REVERSE AUCTION</a></li>
 										<li><a href="<?= base_url();?>index.php/video">VIDEO</a></li>
-										<li><a href="<?= base_url();?>index.php/testimonials">TESTIMONIALS</a></li>
 										<li><a href="<?= base_url();?>index.php/contact">CONTACT US</a></li>
 									</ul>
 								</div>
@@ -39,6 +38,7 @@
 								<h2 class="widget-title">SERVICE</h2>
 								<div class="content">
 									<ul class="widget-menu">
+										<li><a href="<?= base_url();?>index.php/testimonials">TESTIMONIALS</a></li>
 										<li><a href="<?= base_url();?>index.php/csr">CSR</a></li>
 									</ul>
 								</div>
@@ -119,3 +119,7 @@
 	<script src="<?=base_url();?>assets/rev-slider/js/extensions/extensionsrevolution.extension.video.min.js"></script>
 </body>
 </html>
+
+
+<!-- #Listen 12.34.56.78:80
+Listen 80 -->

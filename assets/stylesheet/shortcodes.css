@@ -149,7 +149,7 @@
     align-items: flex-end;
 }
 .featured-style1 {
-    padding: 40px 0 0 0;
+    padding: 10px 0 0 0;
 }
 .featured-style1 .content .description {
     margin-bottom: 50px;
@@ -211,7 +211,7 @@
     text-transform: uppercase;
 }
 .iconbox-home {
-    transform: translateY(-39%);
+    transform: translateY(-30%);
 }
 .iconbox-features.type1 {
     margin: 0 -18px;
@@ -362,7 +362,7 @@
     color: #ffffff;
     background-image: url('../images/about/02.png');
     background-size: cover;
-    padding: 154px 0 141px 0;
+    padding: 60px 0 50px 0;
 }
 .featured-banner-type2 .content .caption {
     font-size: 18px;

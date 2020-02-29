@@ -215,9 +215,9 @@
 					<div class="col-lg-6 col-md-12">
 						<div class="flat-spacer" data-desktop="63" data-sdesktop="63" data-mobi="30" data-smobi="30"></div>
 						<div class="content">
-							<div class="caption"> Craig Teo Founder</div>
-							<h4 class="heading">Reverse Auction</h4>
-							<p class="description">
+							<div class="caption" style="color:#FF0000;"> Craig Teo Founder</div>
+							<h4 class="heading" style="color:#0000FF;">Reverse Auction</h4>
+							<p class="description" style="color:#000000;">
 								"Reverse Auction" founded by local TV personality Craig Teo, who is currently acting as the late Prof Chao Tzee Cheng, the famous forensic pathologist in the Channel 5 DocuDrama "Whispers of the Dead", has been in the entertainment industry for over 20 years.
 							</p>
 							<div class="fl-btn">
@@ -292,59 +292,3 @@
 			</div>
 		</div>
 	</section><!-- about -->
-<!-- facts -->
-	<section class="facts">
-		<div class="container">
-			<div class="flat-counter">
-				<div class="row">
-					<div class="col-lg-3 col-md-6 col-sm-12">
-						<div class="counter">                      
-							<div class="content-counter">
-								<div class="numb-count-wrap">
-									<span class="numb-count" data-from="0" data-to="42" data-speed="2000" data-inviewport="yes">42</span>
-								</div>
-								<div class="name-count">Years of Experience</div>
-								<div class="icon-count"><img src="<?=base_url();?>assets/images/home1/09.png" alt="images"></div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6 col-sm-12">
-						<div class="counter">                            
-							<div class="content-counter">
-								<div class="numb-count-wrap">
-									<span class="numb-count" data-from="0" data-to="100" data-speed="2000" data-inviewport="yes">100</span>
-									<span class="numb-bs">+</span>
-								</div>
-								<div class="name-count">Total Attorney</div>
-								<div class="icon-count"><img src="<?=base_url();?>assets/images/home1/10.png" alt="images"></div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6 col-sm-12">
-						<div class="counter">                            
-							<div class="content-counter">
-								<div class="numb-count-wrap">
-									<span class="numb-count" data-from="0" data-to="2000" data-speed="2000" data-inviewport="yes">2000</span>
-									<span class="numb-bs">+</span>
-								</div>
-								<div class="name-count">Happy Clients</div>
-								<div class="icon-count"><img src="<?=base_url();?>assets/images/home1/11.png" alt="images"></div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6 col-sm-12">
-						<div class="counter">
-							<div class="content-counter">
-								<div class="numb-count-wrap">
-									<span class="numb-count" data-from="0" data-to="99" data-speed="2000" data-inviewport="yes">99</span>
-									<span class="numb-bs">%</span>
-								</div>
-								<div class="name-count">Success Rate</div>
-								<div class="icon-count"><img src="<?=base_url();?>assets/images/home1/12.png" alt="images"></div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>

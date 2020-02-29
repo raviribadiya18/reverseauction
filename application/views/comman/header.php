@@ -14,39 +14,45 @@
 					<div class="btn-menu"><span></span></div>
 					<nav id="mainnav" class="mainnav">
 						<ul class="menu">
-							<!-- <li class="<?php echo activate_menu('home'); ?>"><a href="<?php echo site_url();?>">Home</a></li>
-							<li class="<?php echo activate_menu('about'); ?>"><a href="<?php echo site_url('about');?>">About us</a></li>
+							 <li class="<?php echo activate_menu('home'); ?>"><a href="<?php echo site_url();?>">HOME</a></li>
+							<li class="<?php echo activate_menu('about'); ?>"><a href="<?php echo site_url('about');?>">ABOUT US</a></li>
 							<li>
-								<a href="#">Our Services</a>
+								<a href="#">OUR SERVICES</a>
 								<ul class="sub-menu">
-									tli class="<?php echo activate_menu('Testimonials'); ?>t><a href="<?php echo site_url('Testimonials');?>">Testimonials</a></li>
+									<li class="<?php echo activate_menu('Testimonials'); ?>"><a href="<?php echo site_url('Testimonials');?>">TESTIMONIALS</a></li>
 									<li class="<?php echo activate_menu('csr'); ?>"><a href="<?php echo site_url('csr');?>">CSR</a></li>
                                 </ul>
 							</li>
-							<li class="<?php echo activate_menu('reverse_auction'); ?>"><a href="<?php echo site_url('reverse_auction');?>">Reverse Auction</a></li>
-							<li class="<?php echo activate_menu('contact'); ?>"><a href="<?php echo site_url('contact');?>">Contact Us</a></li>
--->
-							<?php $uriMethod_name=$this->uri->segment(1);
+							<li class="<?php echo activate_menu('reverse_auction'); ?>"><a href="<?php echo site_url('reverse_auction');?>">REVERSE AUCTION</a></li>
+							<li class="<?php echo activate_menu('contact'); ?>"><a href="<?php echo site_url('contact');?>">CONTACT US</a></li>
+
+							<!-- <?php $uriMethod_name=$this->uri->segment(1);
                             ?>
                             <li <?php if($uriMethod_name==""){ echo "class='active'"; }else{ echo "class=''" ; } 
-                                ?> ><a href="<?php echo base_url(); ?>">Home</a>
+                                ?> ><a href="<?php echo base_url(); ?>">HOME</a>
                             </li>
                             <li <?php if($uriMethod_name=="about"){ echo "class='active'"; }else{ echo "class=''" ; } 
-                                ?> ><a href="<?php echo base_url(); ?>index.php/about">About Us</a>
+                                ?> ><a href="<?php echo base_url(); ?>index.php/about">ABOUT US</a>
                             </li>
                               <li <?php if($uriMethod_name=="testimonials"){ echo "class='active'"; }else{ echo "class=''" ; } 
-                                ?> ><a href="<?php echo base_url(); ?>index.php/testimonials">Testimonials</a>
+                                ?> ><a href="<?php echo base_url(); ?>index.php/testimonials">TESTIMONIALS</a>
                             </li>
-                            <li <?php if($uriMethod_name=="csr"){ echo "class='active'"; }else{ echo "class=''" ; } ?>><a href="<?php echo base_url(); ?>index.php/csr">CSR</a>
+                            <li <?php if($uriMethod_name=="oursevice"){ echo "class='active'"; }else{ echo "class=''" ; } ?>>
+                            	<ul>
+                            		
+                            <li <?php if($uriMethod_name=="csr"){ echo "class='active'"; }else{ echo "class=''" ; } ?>>
+                            	<a href="<?php echo base_url(); ?>index.php/csr">CSR</a>
                             </li>
-                            <li <?php if($uriMethod_name=="contact"){ echo "class='active'"; }else{ echo "class=''" ; }?>><a href="<?php echo base_url(); ?>index.php/reverse_auction">Reverse Auction</a>
+                            <li <?php if($uriMethod_name=="oursevice"){ echo "class='active'"; }else{ echo "class=''" ; }?>><a href="<?php echo base_url(); ?>index.php/reverse_auction">Reverse Auction</a>
+                            </li>
+                            	</ul>
                             </li>
                             <li <?php if($uriMethod_name=="video"){ echo "class='active'"; }else{ echo "class=''" ; } 
                                 ?>><a href="<?php echo base_url(); ?>index.php/video">Video</a>
                             </li>
                             <li <?php if($uriMethod_name=="contact"){ echo "class='active'"; }else{ echo "class=''" ; } 
                                 ?>><a href="<?php echo base_url(); ?>index.php/contact">Contact Us</a>
-                            </li>
+                            </li> -->
                            	<!--<li>
 								<a href="<?=base_url();?>" class="active">Home</a>
 							</li>

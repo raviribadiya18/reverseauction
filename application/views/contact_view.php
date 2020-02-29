@@ -21,7 +21,7 @@
         <div class="container">
             <div class="contact-us">
                 <div class="title-section text-center">
-                    <h3 class="flat-title">Connect With Us</h3>
+                    <h3 class="flat-title" style="color:#0000FF;">Connect With Us</h3>
                     <!-- <p class="sub-title">Dolore magna aliqu onoet enim ad minim veniam</p> -->
                 </div>
                 <div class="contact-options">
@@ -30,7 +30,7 @@
                             <i class="fa fa-map-marker" aria-hidden="true"></i>
                         </div>
                         <div class="content-info">
-                            <h4 class="name">Address</h4>
+                            <h4 class="name" style="color:#0000FF;">Address</h4>
                             <div class="info-wrap">
                                 <p>PHD Internetional<br>
 								   1, Jalan Anak Bukit<br>
@@ -44,7 +44,7 @@
                             <i class="fa fa-phone" aria-hidden="true"></i>
                         </div>
                         <div class="content-info">
-                            <h4 class="name">Phone Number</h4>
+                            <h4 class="name" style="color:#0000FF;">Phone Number</h4>
                             <div class="info-wrap">
                                 <p>Tel : 64676095</p>
                                 <p>Mobile : 91689889</p>
@@ -56,7 +56,7 @@
                             <i class="fa fa-envelope" aria-hidden="true"></i>
                         </div>
                         <div class="content-info">
-                            <h4 class="name">Email Address</h4>
+                            <h4 class="name" style="color:#0000FF;">Email Address</h4>
                             <div class="info-wrap">
                                 <p>Hello@finelaw.com</p>
                                 <p>sales@finelaw.com</p>
@@ -70,7 +70,7 @@
     <div class="write-something">
         <div class="container">
             <div class="title-section text-center">
-                <h3 class="flat-title">Write Us Something</h3>
+                <h3 class="flat-title" style="color:#0000FF;">Write Us Something</h3>
             </div>
             <form action="#" class="form-message-pct">
                 <div class="text-wrap d-md-flex clearfix">
@@ -86,7 +86,7 @@
                 </div>
                 <textarea name="comment" id="comment-message" rows="8" placeholder="Write your message here"></textarea>
                 <div class="fl-btn">
-                    <button class="hvr-vertical">send now</button>
+                    <button class="hvr-vertical" >send now</button>
                 </div>
             </form>
         </div>

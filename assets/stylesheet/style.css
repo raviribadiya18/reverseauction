@@ -52,8 +52,9 @@ body {
 	-ms-text-size-adjust: 100%;
 }
 
-a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,caption,canvas,center,cite,code,dd,del,details,dfn,dialog,div,dl,dt,em,embed,fieldset,figcaption,figure,form,footer,header,hgroup,h1,h2,h3,h4,h5,h6,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,tt,table,tbody,textarea,tfoot,thead,time,tr,th,td,u,ul,var,video {
-	font-family: inherit;
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,caption,canvas,center,cite,code,dd,del,details,dfn,dialog,div,dl,dt,em,embed,fieldset,figcaption,figure,form,footer,header,hgroup,h1,h2,h3,h4,h5,h6,html,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,tt,table,tbody,textarea,tfoot,thead,time,tr,th,td,u,ul,var,video {
+	/*font-family: inherit;*/
+	font-family: sans-serif !important;
 	font-size: 100%;
 	font-weight: inherit;
 	font-style: inherit;
@@ -1054,7 +1055,7 @@ input::-webkit-input-placeholder {
 /* blog
 -------------------------------------------------------------- */
 .blog-content {
-	padding: 50px 0 65px 0;
+	padding: 20px 0 30px 0;
 }
 .main-post {
 	-webkit-box-shadow: 0 0 30px 0 #e5e5e7;
@@ -1458,7 +1459,7 @@ input::-webkit-input-placeholder {
 	font-size: 15px;
 }
 .comments-area {
-	padding: 62px 0 40px 0;
+	padding: 15px 0 30px 0;
 	background-color: #fef7ee;
 }
 .comments .title {
@@ -1799,7 +1800,7 @@ input::-webkit-input-placeholder {
 /* contact
 -------------------------------------------------------------- */
 .contact {
-	padding: 107px 0 104px 0;
+	padding: 50px 0 60px 0;
 }
 .contact-us .title-section {
 	margin-bottom: 64px;
@@ -1825,15 +1826,15 @@ input::-webkit-input-placeholder {
 	border-right: 1px solid #dddddd;
 }
 .contact-options .icon-box .icon {
-	width: 72px;
-	height: 72px;
-	line-height: 72px;
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
 	font-size: 24px;
 	text-align: center;
 	display: inline-block;
 	color: #fff;
 	border-radius: 50%;
-	background-color: #0000FF;
+	background-color: #FF0000;
 	margin-bottom: 25px;
 	transition: all 0.9s ease;
 	-moz-transition: all 0.9s ease;
@@ -1854,7 +1855,7 @@ input::-webkit-input-placeholder {
 	font-family: "Poppins", sans-serif;
 }
 .write-something {
-	padding: 0 0 120px 0;
+	padding: 0 0 65px 0;
 }
 .write-something .title-section {
 	margin-bottom: 42px;
@@ -2524,7 +2525,7 @@ input::-webkit-input-placeholder {
 /* practice-single
 -------------------------------------------------------------- */
 .practice-single {
-	padding: 50px 0 80px 0;
+	/*padding: 50px 0 80px 0;*/
 }
 .practice-single .featured-post {
 	margin-bottom: 39px;
@@ -2814,7 +2815,7 @@ input::-webkit-input-placeholder {
 	text-transform: uppercase;
 }
 .about-style1 {
-	padding: 50px 0 126px 0;
+	padding: 50px 0 10px 0;
 }
 .about .text-content {
 	margin-bottom: 42px;
