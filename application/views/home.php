@@ -208,7 +208,7 @@
 					<div class="col-lg-6 col-md-12">
 						<div class="featured-post">
 							<div class="entry-image">
-								<img src="<?=base_url();?>assets/images/home1/14.png" alt="images">
+								<img src="<?=base_url();?>assets/images/home1/140.png" alt="images">
 							</div>
 						</div>
 					</div>
@@ -244,9 +244,6 @@
 								<p class="description">
 									Lorem ipsum dolor sit amet, consecte dunt ut labore et dolore magna aliqua. Ut enim ad minim veis nostrud
 								</p>
-								<div class="fl-btn">
-									<a href="#">read more</a>
-								</div>
 							</div>
 						</div>
 					</div>
@@ -263,9 +260,6 @@
 								<p class="description">
 									Lorem ipsum dolor sit amet, consecte dunt ut labore et dolore magna aliqua. Ut enim ad minim veis nostrud
 								</p>
-								<div class="fl-btn">
-									<a href="#">read more</a>
-								</div>
 							</div>
 						</div>
 					</div>
@@ -282,9 +276,6 @@
 								<p class="description">
 									Lorem ipsum dolor sit amet, consecte dunt ut labore et dolore magna aliqua. Ut enim ad minim veis nostrud
 								</p>
-								<div class="fl-btn">
-									<a href="#">read more</a>
-								</div>
 							</div>
 						</div>
 					</div>
