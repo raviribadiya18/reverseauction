@@ -1,8 +1,4 @@
-<div class="progress-bar bg-danger" role="progressbar" style="font-size: 40px; width: 100%;  background: rgba(219, 13, 13, 0.2) !important;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
-	<span style="color: rgba(219, 13, 13, 1); height: 60px; margin: 20px 0 0 0;">
-	  VIDEO
-	</span>
-</div>
+
 <!-- page-title -->
 <div class="practice-single">
 	<div class="container">
@@ -10,7 +6,7 @@
 			<div class="practice-area practice-area-style1">
 		        <div class="container">
 		            <div class="title-section text-center">
-		                <h3 class="flat-title">Video Gallery</h3>
+		                <h3 class="flat-title" style="color:#FF0000;">Video Gallery</h3>
 		            </div>
 		            <div class="practice-area-wrap">
 		                <div class="row">
