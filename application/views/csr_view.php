@@ -32,7 +32,7 @@
                             </div>
                         </div>
                         <div class="overview content-practice-single mg-practice-single">
-                            <h3 class="title" style="color: #0000FF;"><b>What is CSR?</b></h3>
+                            <h3 class="title" style="color:#0000FF; "><b>What is CSR?</b></h3>
                             <p>
                                 Corporate Social Responsibility (CSR) is a service that is undertaken and managed by a company instead of an individual.
                             </p>

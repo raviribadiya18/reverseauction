@@ -7,6 +7,7 @@
 		        <div class="container">
 		            <div class="title-section text-center">
 		                <h3 class="flat-title" style="color:#FF0000;">Video Gallery</h3>
+		                <!-- <h3 class="flat-title" style="background: -webkit-linear-gradient(#000, #FF0000); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Video Gallery</h3> -->
 		            </div>
 		            <div class="practice-area-wrap">
 		                <div class="row">

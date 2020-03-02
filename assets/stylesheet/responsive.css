@@ -10,6 +10,12 @@
   
 }
 
+@media only screen  and (min-width: 100px) and (max-width: 320px){
+	.tp-bgimg .defaultimg .slotholder{
+		height: 350px !important;
+	}
+}
+
 @media only screen and (max-width: 1440px) {
     .testimonial .col-left,
     .testimonial .col-right {

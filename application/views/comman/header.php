@@ -1,4 +1,3 @@
-
 <body class="counter-scroll">
 <div id="loading-overlay">
 	<div class="loader"></div>
@@ -90,5 +89,8 @@
 	font-family: arial;
 	height: 30px;
 	width: 100%;
+}
+.marq:hover{
+	color: yellow;
 }
 </style>
