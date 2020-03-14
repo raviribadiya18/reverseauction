@@ -240,10 +240,13 @@
 								<img src="<?=base_url();?>assets/images/home1/01.png" alt="images">
 							</div>
 							<div class="iconbox-content">
-								<h5 class="title"><a href="#">Short Time Result </a></h5>
+								<h5 class="title"><a href="#">Testimonials</a></h5>
 								<p class="description">
-									Lorem ipsum dolor sit amet, consecte dunt ut labore et dolore magna aliqua. Ut enim ad minim veis nostrud
+									Craig Teo was invited to conduct two Reverse Auction sessions during our annual Catholic Business Network (CBN) Christmas Dinner 2018 on 8th Dec 2018.
 								</p>
+								<div class="fl-btn">
+									<a href="<?=base_url()?>index.php/testimonials" class="hvr-vertical">read more</a>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -256,10 +259,13 @@
 								<img src="<?=base_url();?>assets/images/home1/02.png" alt="images">
 							</div>
 							<div class="iconbox-content">
-								<h5 class="title"><a href="#">We Stand For Justice</a></h5>
+								<h5 class="title"><a href="#">CSR</a></h5>
 								<p class="description">
-									Lorem ipsum dolor sit amet, consecte dunt ut labore et dolore magna aliqua. Ut enim ad minim veis nostrud
+									Corporate Social Responsibility (CSR) is a service that is undertaken and managed by a company instead of an individual.
 								</p>
+								<div class="fl-btn">
+									<a href="<?=base_url()?>index.php/csr" class="hvr-vertical">read more</a>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -272,10 +278,13 @@
 								<img src="<?=base_url();?>assets/images/home1/03.png" alt="images">
 							</div>
 							<div class="iconbox-content">
-								<h5 class="title"><a href="#">No Win No Pay</a></h5>
+								<h5 class="title"><a href="#">Reverse Auction</a></h5>
 								<p class="description">
-									Lorem ipsum dolor sit amet, consecte dunt ut labore et dolore magna aliqua. Ut enim ad minim veis nostrud
+									Most Charities, Religious Organisations, VWO's or NGO's will use the Traditional Auction as a way to raise additional funds when they are having a Fund Raising Dinner.
 								</p>
+								<div class="fl-btn">
+								<a href="<?=base_url()?>index.php/reverse_auction" class="hvr-vertical">read more</a>
+								</div>
 							</div>
 						</div>
 					</div>
