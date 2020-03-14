@@ -240,7 +240,7 @@
 								<img src="<?=base_url();?>assets/images/home1/01.png" alt="images">
 							</div>
 							<div class="iconbox-content">
-								<h5 class="title"><a href="#">Testimonials</a></h5>
+								<h5 class="title"><a href="<?=base_url()?>index.php/testimonials">Testimonials</a></h5>
 								<p class="description">
 									Craig Teo was invited to conduct two Reverse Auction sessions during our annual Catholic Business Network (CBN) Christmas Dinner 2018 on 8th Dec 2018.
 								</p>
@@ -259,7 +259,7 @@
 								<img src="<?=base_url();?>assets/images/home1/02.png" alt="images">
 							</div>
 							<div class="iconbox-content">
-								<h5 class="title"><a href="#">CSR</a></h5>
+								<h5 class="title"><a href="<?=base_url()?>index.php/csr">CSR</a></h5>
 								<p class="description">
 									Corporate Social Responsibility (CSR) is a service that is undertaken and managed by a company instead of an individual.
 								</p>
@@ -278,7 +278,7 @@
 								<img src="<?=base_url();?>assets/images/home1/03.png" alt="images">
 							</div>
 							<div class="iconbox-content">
-								<h5 class="title"><a href="#">Reverse Auction</a></h5>
+								<h5 class="title"><a href="<?=base_url()?>index.php/reverse_auction">Reverse Auction</a></h5>
 								<p class="description">
 									Most Charities, Religious Organisations, VWO's or NGO's will use the Traditional Auction as a way to raise additional funds when they are having a Fund Raising Dinner.
 								</p>
