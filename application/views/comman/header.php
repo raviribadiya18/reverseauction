@@ -6,7 +6,7 @@
 	<div class="container">
 		<div class="flex-header">
 			<div id="logo" class="logo">
-				<a href="<?=base_url();?>" title="Logo"><img src="<?=base_url();?>assets/images/logo/redrawn-logo.png" data-width="80" data-height="34" alt="images" data-retina="<?=base_url();?>assets/images/logo/redrawn-logo.png"></a>
+				<a href="<?=base_url();?>" title="Logo"><img src="<?=base_url();?>assets/images/logo/redrawn.png" data-width="80" data-height="34" alt="images" data-retina="<?=base_url();?>assets/images/logo/redrawn-logo.png"></a>
 			</div>
 			<div class="content-menu">
 				<div class="nav-wrap">
