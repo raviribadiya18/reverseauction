@@ -14,31 +14,57 @@
 			                    <div class="comments">
 			                        <h4 class="title" style="color:#FF0000; text-align: center;">Testimonials</h4>
 			                        <ul class="comments-list">
-			                            <li>
-			                                <div class="comment-wrap">
-			                                    <!-- <div class="avatar">
-			                                        <img src="<?=base_url();?>assets/images/blog/03.png" alt="images">
-			                                    </div> -->
-			                                    <div class="comment-content">
-			                                        <div class="comment-meta">
-			                                            <h5 class="name" style="color: #0000FF;"> Joseph & Jessica</h5>
-			                                        </div>
-			                                        <p>
-			                                           "Craig is a fun and awesome emcee to have for your wedding!!"
-			                                        </p>
-			                                    </div>
-			                                </div>
-			                            </li>
+			                        	  <li>
+            <div class="comment-wrap">
+                <!-- <div class="avatar">
+                    <img src="<?=base_url();?>assets/images/blog/03.png" alt="images">
+                </div> -->
+            <div class="comment-content">
+                <!-- <div class="comment-meta">
+                    <h5 class="name" style="color: #0000FF;"> Joseph & Jessica</h5>
+                </div> -->
+                <p>
+                   Craig Teo was invited to conduct two Reverse Auction sessions during our annual Catholic Business Network (CBN) Christmas Dinner 2018 on 8th Dec 2018. During the Reverse Auctions, Craig was able to explain clearly to our guests how the Reverse Auction works. He was entertaining and engaging with the audience and got them excited to donate in a crowd-funding manner.
+                </p><br>
+                <p>
+                	With his active encouragement, our guests rose to the challenge and we were able to meet both our targets of $100,000 for the first auction and $25,000 for the second auction at a relatively fast pace. This was an audience participation exercise that enabled our guests to donate willingly for our fund raising plans earmarked for needy children.
+                </p><br>
+                <p>
+                	We appreciate his consummate professionalism in engaging both our Dinner Committee in the preparations leading to the Dinner and the guests during the Christmas Dinner Event.
+                </p><br>
+                <p>
+                	With deep appreciation,<br>
+					John Antony<br>
+					Chair, CBN Christmas Dinner 2018
+                </p>
+            </div>
+        </div>
+	</li>
+        <li>
+            <div class="comment-wrap">
+                <!-- <div class="avatar">
+                    <img src="<?=base_url();?>assets/images/blog/03.png" alt="images">
+                </div> -->
+            <div class="comment-content">
+                <div class="comment-meta">
+                    <h5 class="name" style="color: #0000FF;"> Joseph & Jessica</h5>
+                </div>
+                <p>
+                   "Craig is a fun and awesome emcee to have for your wedding!!"
+                </p>
+            </div>
+        </div>
+	</li>
 			                            <li>
 			                                <div class="comment-wrap">
 			                                    <!-- <div class="avatar">
 			                                        <img src="<?=base_url();?>assets/images/blog/06.png" alt="images">
 			                                    </div> -->
-			                                    <div class="comment-content">
-			                                        <div class="comment-meta">
-			                                            <h5 class="name" style="color: #0000FF;">Winston Foo</h5>
-			                                        </div>
-			                                        <p>"Hi Craig,
+        <div class="comment-content">
+            <div class="comment-meta">
+                <h5 class="name" style="color: #0000FF;">Winston Foo</h5>
+            </div>
+		<p>"Hi Craig,
 It is my great pleasure to write this letter of recommendation for you.I have had the pleasure of employing you for my Wedding dinner, and I can state with confidence that you are a motivated and responsible person with a high degree of integrity. As such, I would strongly recommend your service to others. Craig is a humorous and motivated emcee who has a good feel and is incredibly knowledgeable in this field. As an emcee, he had a considerable amount of responsibilities, and he handled them effortlessly. He showed his skills to communicate with guest and VIPS, and due to his dedication and attention to detail, our guests thoroughly enjoyed themselves on the wedding night. Craig takes the initiative to identify problems and devise solutions. His role requires strong communication skills, and he has shown that he not only has these skills, but that he also has the ability to provide a calming presence for us on the night itself when most newly weds would experience a high level of stress. His experience in events management is almost unparalleled all of which is highly reflected by the very good advice that was rendered. I would therefore highly recommend you to anyone who are looking for a master of ceremony without any reservation. Lastly, thanks for your help Craig and also for a very successful wedding."
 			                                        </p>
 			                                    </div>

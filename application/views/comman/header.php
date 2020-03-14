@@ -18,11 +18,12 @@
 							<li>
 								<a href="#">OUR SERVICES</a>
 								<ul class="sub-menu">
-									<li class="<?php echo activate_menu('Testimonials'); ?>"><a href="<?php echo site_url('Testimonials');?>">TESTIMONIALS</a></li>
+									<!-- <li class="<?php echo activate_menu('Testimonials'); ?>"><a href="<?php echo site_url('Testimonials');?>">TESTIMONIALS</a></li> -->
 									<li class="<?php echo activate_menu('csr'); ?>"><a href="<?php echo site_url('csr');?>">CSR</a></li>
                                 </ul>
 							</li>
 							<li class="<?php echo activate_menu('reverse_auction'); ?>"><a href="<?php echo site_url('reverse_auction');?>">REVERSE AUCTION</a></li>
+							<li class="<?php echo activate_menu('testimonials'); ?>"><a href="<?php echo site_url('testimonials');?>">TESTIMONIALS</a></li>
 							<li class="<?php echo activate_menu('contact'); ?>"><a href="<?php echo site_url('contact');?>">CONTACT US</a></li>
 
 							<!-- <?php $uriMethod_name=$this->uri->segment(1);
